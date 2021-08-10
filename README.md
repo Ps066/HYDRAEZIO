@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HYDRAEZIO
 - 👀 I’m interested in projects like full stack development and app development.
-- 🌱 I’m currently learning computer science engineering in 1st year    
+- 🌱 I’m currently learning computer science engineering in 2nd year    
 - 💞️ I’m looking to collaborate on companies who want to make app or website development   
 - 📫 How to reach me you can mail me on rajvivek2002@outlook.com
 
