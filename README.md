@@ -1,10 +1,53 @@
-- 👋 Hi, I’m @HYDRAEZIO
-- 👀 I’m interested in projects like full stack development and app development.
-- 🌱 I’m currently learning computer science engineering in 2nd year    
-- 💞️ I’m looking to collaborate on companies who want to make app or website development   
-- 📫 How to reach me you can mail me on rajvivek2002@outlook.com
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!---
-HYDRAEZIO/HYDRAEZIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/VivekPa78896663)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vivek-pandey-0b855b17b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_._raj_pandey_._/)
+
+![](https://komarev.com/ghpvc/?username=HYDRAEZIO&color=orange)
+
+## Mindset
+- 🔭 I’m currently working on **Java**
+- 🌱 I’m currently learning **Python**
+- 💬 Thinking of **Competitive Programing**
+
+
+## Skills And Work
+
+- Learning Android Development 
+- Languages : Python, C, Java, C#,C++
+
+
+
+## 🔧 Technologies & Tools
+<p>
+ 
+  <img alt="vs code" src="https://img.shields.io/badge/-VS_Code-2088FF?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-1a73e8?style=flat-square&logo=django&logoColor=white" />
+  
+ 
+  
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-FB542B?style=flat-square&logo=css3&logoColor=white" />
+ 
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  
+  
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EC4A3F?style=flat-square&logo=javascript&logoColor=white" />
+  
+
+
+## Things I am passionate about
+
+- Cyber Security 
+- Programming
+
+
+
+<div align="center">
+
+[![Vivek Pandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYDRAEZIO&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYDRAEZIO)](https://github.com/anuraghazra/github-readme-stats)
+</div>
