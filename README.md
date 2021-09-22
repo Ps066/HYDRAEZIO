@@ -51,3 +51,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYDRAEZIO)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HYDRAEZIO&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
