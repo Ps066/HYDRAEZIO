@@ -2,7 +2,7 @@
 
 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/VivekPa78896663)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vivek-pandey-0b855b17b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_._raj_pandey_._/)
+
 
 ![](https://komarev.com/ghpvc/?username=HYDRAEZIO&color=orange)
 
@@ -38,6 +38,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EC4A3F?style=flat-square&logo=javascript&logoColor=white" />
   
+## Connect Me
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/VivekPa78896663)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vivek-pandey-0b855b17b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_._raj_pandey_._/)
 
 
 ## Things I am passionate about
