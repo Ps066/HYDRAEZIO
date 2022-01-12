@@ -12,10 +12,12 @@
 - 💬 Thinking of **Competitive Programing**
 
 
+
 ## Skills And Work
 
 - Learning Android Development 
 - Languages : Python, C, Java, C#,C++
+- Learning **Javascript**
 
 
 
